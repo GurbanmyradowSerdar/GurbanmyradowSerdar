@@ -5,14 +5,13 @@
 
 - 🤓 And the react-native I'm learning too for my own projects **React-native**
 
-- 🔥 I always improve my knowledge in web **Web**
-
-- 💬 Ask me about **Next.js**
+- 🔥 I always improve my knowledge in **Web**
 
 - 📫 How to reach me **serdargurbanmyradow953@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  link : serdar20
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
