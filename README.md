@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **serdargurbanmyradow953@gmail.com**
 
-I use **Next.js** for front-back, **Postgresql** for database, **Rest or Graphql** for connect them, **Tailwind CSS or MUI** for styling or what you want, whatever
+I use **Next.js** for front-back, **Postgresql** for database, **Rest or Graphql** for connect them, **Tailwind CSS or MUI** for styling or whatever you want!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
