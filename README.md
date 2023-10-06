@@ -3,23 +3,13 @@
 
 - 🔭 I’m currently learning UI/UX **Adobe xd**
 
-- 🌱 I’m currently learning **React-native, UI/UX**
-
-- 🤓 And the react-native I'm learning too for my project **React-native**
+- 🤓 And the react-native I'm learning too for my own projects **React-native**
 
 - 🔥 I always improve my knowledge in web **Web**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
-
-- 📝 I regularly write articles on [No articles](No articles)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **serdargurbanmyradow953@gmail.com**
-
-- 📄 Know about my experiences [Resume link](Resume link)
-
-- ⚡ Fun fact **No fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
