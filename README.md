@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  link : **serdar20**
+  link : <span style="font-weight : 700">serdar20</span>
 </p>
 <p align="left">
-  linkedin : **https://linkedin.com/in/serdar-gurbanmyradow**
+  linkedin : <span style="font-weight : 700">https://linkedin.com/in/serdar-gurbanmyradow</span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
