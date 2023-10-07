@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
-<h3 align="center">A young full stack web developer</h3>
+<h3 align="center">A young junior full stack web developer</h3>
 
 - 🔭 I’m currently learning UI/UX **Adobe xd**
 
