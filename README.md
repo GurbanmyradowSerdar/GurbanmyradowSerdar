@@ -14,7 +14,7 @@ SPA **Vite**\
 Database **Postgresql**\
 Http methods **Rest or Graphql**\
 Styling **Tailwind CSS or MUI**\
-State managemnt **Zustand, Recoil or Redux**\
+State managemnt **Zustand, Recoil or Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
