@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **serdargurbanmyradow953@gmail.com**
 
-SSR or SSG -->      **Next.js**\
-SPA -->             **Vite**\
-Database -->        **Postgresql**\
-Http methods -->    **Rest or Graphql**\
-Styling -->         **Tailwind CSS or MUI**\
-State managemnt --> **Zustand, Recoil or Redux**
+SSR or SSG -->      ***Next.js***\
+SPA -->             ***Vite***\
+Database -->        ***Postgresql***\
+Http methods -->    ***Rest or Graphql***\
+Styling -->         ***Tailwind CSS or MUI***\
+State managemnt --> ***Zustand, Recoil or Redux***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
