@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
-<h3 align="center">A young full stack web developer</h3>
+<h3 align="center">A young junior full stack web developer</h3>
 
 - 🔭 I’m currently learning UI/UX **Adobe xd**
 
@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **serdargurbanmyradow953@gmail.com**
 
-I use **Next.js** for front-back, **Postgresql** for database, **Rest or Graphql** for connect them, **Tailwind CSS or MUI** for styling or whatever you want!
+SSR or SSG --> **_Next.js_**\
+SPA --> **_Vite_**\
+Database --> **_Postgresql_**\
+Http methods --> **_Rest or Graphql_**\
+Styling --> **_Tailwind CSS or MUI_**\
+State managemnt --> **_Zustand, Recoil or Redux_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
