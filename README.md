@@ -12,9 +12,11 @@
 SSR or SSG --> **_Next.js_**\
 SPA --> **_Vite_**\
 Database --> **_Postgresql_**\
+Backend --> **_Express.js_**\
 Http methods --> **_Rest or Graphql_**\
 Styling --> **_Tailwind CSS or MUI_**\
-State managemnt --> **_Zustand, Recoil or Redux_**
+State managemnt --> **_Zustand, Recoil or Redux_**\
+Validations --> **_TS_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
