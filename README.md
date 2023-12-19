@@ -20,7 +20,7 @@ Validations --> **_TS_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-link : serdar20
+Link : serdar20
 </p>
 
 <p align="left">
