@@ -37,8 +37,9 @@
 ## Contacts
 
 - [Linkedin](https://www.linkedin.com/in/serdar-gurbanmyradow-931250295/)
-- [Gmail](serdargurbanmyradow953@gmail.com)
+- Gmail: [serdargurbanmyradow953@gmail.com](mailto:serdargurbanmyradow953@gmail.com)
 - [Telegram](https://t.me/serdarWeb)
+- Here more info about me: CV ( soon )
 - Location: Turkmenistan, Ashgabat.
 
 ## My Stats:
