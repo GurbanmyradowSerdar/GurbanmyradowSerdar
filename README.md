@@ -1,7 +1,5 @@
-## Introduction
-
-<h3 align="center">Hey there, I'm <a href="https://github.com/GurbanmyradowSerdar">Serdar</a></h3>
-<h5 align="center">Junior Full Stack Developer</h5>
+<h2 align="center">Hey there, I'm <a href="https://github.com/GurbanmyradowSerdar">Serdar</a></h3>
+<h3 align="center">Junior Full Stack Developer</h5>
 
 ## What I'm Doing
 
@@ -41,11 +39,6 @@
 - [Telegram](https://t.me/serdarWeb)
 - Here more info about me: CV ( soon )
 - Location: Turkmenistan, Ashgabat.
-
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=GurbanmyradowSerdar&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
 
 ## Activity On GitHub
 
