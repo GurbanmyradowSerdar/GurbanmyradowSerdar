@@ -9,7 +9,7 @@
 
 ## Frontend tools
 
-<p align="left"> <a href="https://github.com/GurbanmyradowSerdar"><img src="https://skillicons.dev/icons?i=ts,nextjs,vite"> </a> </p>
+<p align="left"> <a href="https://github.com/GurbanmyradowSerdar"><img src="https://skillicons.dev/icons?i=nextjs,vite,react,ts,html,css,js,apollo,graphql,materialui,tailwind,firebase,jquery,"> </a> </p>
 <h3 align="left">Tech Stack:</h3>
 
 - Vite, Next JS
@@ -23,7 +23,7 @@
 
 ## Backend tools
 
-<p align="left"> <a href="https://github.com/GurbanmyradowSerdar"><img src="https://skillicons.dev/icons?i=ts,express,git,github,mongodb,nodejs,postman"> </a> </p>
+<p align="left"> <a href="https://github.com/GurbanmyradowSerdar"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,ts,git,github,postman"> </a> </p>
 <h3 align="left">Tech Stack:</h3>
 
 - Express JS
