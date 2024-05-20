@@ -6,6 +6,7 @@
 - Working as Frontend Developer
 - Learning Node.js & more
 - Practising my backend skills
+- I use MERN to build apps
 
 ## Frontend tools
 
