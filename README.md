@@ -35,7 +35,7 @@
 
 ## Contacts
 
-- [Linkedin](https://www.linkedin.com/in/serdar-gurbanmyradow-931250295/)
+- [Linkedin](https://www.linkedin.com/in/serdar-gurbanmyradow/)
 - Gmail: [serdargurbanmyradow953@gmail.com](mailto:serdargurbanmyradow953@gmail.com)
 - [Telegram](https://t.me/serdarWeb)
 - Here more info about me: CV ( soon )
