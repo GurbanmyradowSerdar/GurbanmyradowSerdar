@@ -19,6 +19,7 @@
 - Framer-motion
 - Server actions
 - Graphql, Rest
+- axios, tanstackQuery
 - Zustand
 - Git
 
