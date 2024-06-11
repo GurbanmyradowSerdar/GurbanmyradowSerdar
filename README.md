@@ -30,8 +30,9 @@
 
 - Express JS
 - Typescript
-- Mongo DB
-- Rest API
+- Mongo DB / PostgreSQL
+- SQL / NO SQL
+- Rest API, GraphQL
 - Git
 
 ## Contacts
