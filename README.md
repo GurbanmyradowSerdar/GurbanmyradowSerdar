@@ -1,5 +1,5 @@
 <h2 align="center">Hey there, I'm <a href="https://github.com/GurbanmyradowSerdar">Serdar</a></h3>
-<p align="center">Junior Full Stack Developer</p>
+<p align="center">Full Stack Web Developer</p>
 
 ## What I'm Doing
 
